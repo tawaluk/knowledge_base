@@ -168,8 +168,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "bc60f888837a8ee5",
+  "active": "b2268ac5acec8944",
   "lastOpenFiles": [
+    "python",
+    "rust",
+    "docker/dockerfile/postgresql.dockerfile",
+    "docker/dockerfile/one_app_py.dockerfile",
+    "docker/dockercompose/Dockercompose_one_app_py.yaml",
+    "docker/dockerfile",
+    "docker/dockercompose",
+    "docker",
     "Добро пожаловать.md"
   ]
 }
